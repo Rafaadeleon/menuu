@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif ;
+    
+}
+
+body{
+    
+    background-color: antiquewhite;
+}
+
+header{
+    width: 100%;
+    height: 135px;
+    background: white;
+    
+}
+.logoc{
+    width: 150px;
+    
+    margin-top: 40px;
+    margin-left: 200px;
+    float: left;
+}
+.lupa{
+    width: 120px;
+    
+    margin-top: 30px;
+    margin-left: -300px;
+    float: left;
+}
+.flecha{
+    width: 15px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 325px;
+    margin-right: 0px;
+    float: left;
+}
+.insta{
+    width: 60px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1400px;
+    float: left;
+}
+.muneco{
+    width: 70px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1600px;
+    float: left;
+}
+   
+.face{
+    width:60px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1500px;
+    float: left;
+}
+    
+*/texto*
+
+.texto{
+    float: left;
+    margin-left: 50px;
+}
+
+
+.muchos{
+    width: 75px;
+    height: 40px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.muchos grad{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-size: 17px;
+    padding: 15px;
+    margin-top: 40px
+}
+
+
+
+
+
+.arriba{
+    
+    float: :left;
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    
+}
+
+
+.arriba a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-size: 17px;
+    padding: 15px;
+    margin-top: 40px
+   
+    
+}
+
+.arriba a:hover{
+    
+   
+    color: #00C8C8;
+    background-color: ;
+    border-bottom: 5px solid #00C8C8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
